@@ -2,6 +2,8 @@
 
 #include "kaprekarUtils.h"
 
+//note : my computer is 32 bit, a possible reason why it failed 4 test cases but gives 100% pass percentage
+
 /**
  * <p>This function tests whether the given input <code>n</code>
  * is a Kaprekar Number or not.  A Kaprekar Number is a non-negative
